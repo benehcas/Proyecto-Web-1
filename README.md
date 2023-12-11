@@ -6,6 +6,6 @@ Sincronización con Visual Studio Code.
 
 Gracias al curso de git de píldoras innformáticas.
 
-[!NOTE]
+.[!NOTE].
 Ésto es un trucazo de midudev
 
