@@ -18,5 +18,5 @@ Gracias al curso de git de píldoras innformáticas.
 > [!WARNING]
 > Ésto es un trucazo de midudev
 
-> [!CAUTIONN]
+> [!CAUTION]
 > Ésto es un trucazo de midudev
